@@ -1,0 +1,28 @@
+/*
+Theme Name:     Child Theme
+Description:    For Assignment 3
+Author:         admin
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+body {
+	 font-family: "DM Serif Display", serif;
+  	font-weight: 400;
+  	font-style: normal;
+	background-color: #F8FFF6;
+	color: #073200
+}
+
+h1 {
+	color: #0A4500;
+}
+
+footer, {
+	background-color: lightgray;
+}
+
+a {
+	color:darkblue;
+}
